@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/BVH.cpp" "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/BVH.cpp.o"
-  "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/Renderer.cpp" "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/Renderer.cpp.o"
-  "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/Scene.cpp" "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/Scene.cpp.o"
-  "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/Vector.cpp" "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/Vector.cpp.o"
-  "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/main.cpp" "/home/cs18/Desktop/Games/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/main.cpp.o"
+  "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/BVH.cpp" "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/BVH.cpp.o"
+  "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/Renderer.cpp" "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+  "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/Scene.cpp" "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/Scene.cpp.o"
+  "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/Vector.cpp" "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/Vector.cpp.o"
+  "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/main.cpp" "/home/cs18/Desktop/Games/Games101GitPro/Games101GitPro/Games101_HW/PA6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
